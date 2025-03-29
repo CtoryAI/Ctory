@@ -1,11 +1,12 @@
+// Entry point for non-TypeScript environment
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './core/App';
-import './styles/global.css';
+import ReactDOM from 'react-dom';
+import App from './App';
+import './index.css';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root')
 ); 
