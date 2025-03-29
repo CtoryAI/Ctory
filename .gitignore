@@ -1,3 +1,7 @@
+# SSH Keys
+ctory_github_key
+ctory_github_key.pub
+
 # Dependencies
 node_modules
 dist
