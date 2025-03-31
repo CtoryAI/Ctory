@@ -588,29 +588,29 @@ jobs:
 ## Roadmap
 
 ### Q2 2025
-- [x] Initial platform launch
-- [x] Basic Web3 integration
-- [x] Story creation and publishing
+- Initial platform launch
+- Basic Web3 integration
+- Story creation and publishing
 
 ### Q3 2025
-- [x] Enhanced user profiles
-- [x] Social features (comments, likes)
-- [x] Mobile responsive design
+- Enhanced user profiles
+- Social features (comments, likes)
+- Mobile responsive design
 
 ### Q4 2025
-- [x] Multi-chain support
-- [x] Improved recommendation system
-- [x] Advanced monetization options
+- Multi-chain support
+- Improved recommendation system
+- Advanced monetization options
 
 ### Q1 2026
-- [ ] Governance system
-- [ ] Creator communities
-- [ ] Enhanced analytics
+- Governance system
+- Creator communities
+- Enhanced analytics
 
 ### Q2 2026
-- [ ] Mobile applications
-- [ ] AI-assisted creation tools
-- [ ] Cross-platform integration
+- Mobile applications
+- AI-assisted creation tools
+- Cross-platform integration
 
 ## FAQ
 
