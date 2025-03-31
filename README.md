@@ -587,27 +587,27 @@ jobs:
 
 ## Roadmap
 
-### Q2 2023
+### Q2 2025
 - [x] Initial platform launch
 - [x] Basic Web3 integration
 - [x] Story creation and publishing
 
-### Q3 2023
+### Q3 2025
 - [x] Enhanced user profiles
 - [x] Social features (comments, likes)
 - [x] Mobile responsive design
 
-### Q4 2023
+### Q4 2025
 - [x] Multi-chain support
 - [x] Improved recommendation system
 - [x] Advanced monetization options
 
-### Q1 2024
+### Q1 2026
 - [ ] Governance system
 - [ ] Creator communities
 - [ ] Enhanced analytics
 
-### Q2 2024
+### Q2 2026
 - [ ] Mobile applications
 - [ ] AI-assisted creation tools
 - [ ] Cross-platform integration
@@ -653,7 +653,7 @@ We welcome contributions from the community! Here's how to get started:
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
-- [Ethereum](https://ethereum.org/)
+- [Solana](https://solana.com/)
 - [IPFS](https://ipfs.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ethers.js](https://docs.ethers.io/)
